@@ -235,12 +235,14 @@
   font-family: TestRegular;
   font-size: 35px;
   line-height: 0.9;
+  margin-bottom: 15px;
 }
 
 .collage .background_collage .texto_collage .titulo_2 {
   font-family: TestRegular;
   font-size: 30px;
   letter-spacing: 1px;
+  line-height:20px;
 }
 
 .collage .background_collage .texto_collage p {
@@ -358,6 +360,7 @@
   margin-left: 6%;
   line-height: 0.9;
   letter-spacing: 0.8px;
+  margin-bottom: 10px;
 }
 
 .mapa_inicio .contenedor_mapa p {
@@ -365,6 +368,7 @@
   font-style: italic;
   font-size: 19px;
   letter-spacing: 0.8px;
+  line-height:20px;
   padding: 0;
   margin-top: 5px;
   width: 90%;
@@ -629,7 +633,7 @@
 
   .collage .background_collage .texto_collage .titulo_1 {
     font-size: 60px;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
   }
 
   .collage .background_collage .texto_collage .titulo_2 {
@@ -819,7 +823,7 @@
   /*Mapa*/
   .mapa_inicio .contenedor_mapa h2 {
     font-size: 60px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
   }
 
   .mapa_inicio .contenedor_mapa p {
